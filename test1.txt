@@ -4,8 +4,4 @@ version 2.0
 
 version 3.0
 
-<<<<<<< HEAD
-bendi
-=======
 version 4.0 edit 
->>>>>>> 13389387da7e7e9c4938aa3aec71d80aef8ed808
