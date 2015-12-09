@@ -5,6 +5,8 @@ class test{
 	
 	}
 	function show(){
+		$str="name is lilei";
+		$this->show($str)
 	
 	}
 	
