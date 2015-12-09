@@ -4,4 +4,8 @@ version 2.0
 
 version 3.0
 
+<<<<<<< HEAD
 location
+=======
+version 4.0 edit 
+>>>>>>> af890003db2b60b2673b32373aebb196556c9cdb
