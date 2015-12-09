@@ -1,0 +1,8 @@
+class test{
+	$version="version.1.0";
+	
+	function index(){
+	
+	}
+	
+}
