@@ -6,7 +6,11 @@ version 3.0
 
 version 4.0 edit 
 
+<<<<<<< HEAD
 location
 
 add new code
 
+=======
+
+>>>>>>> 206c10f8942ebe1895440ad0c746cea8e2b32d4f
